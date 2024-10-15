@@ -62,6 +62,9 @@ class CharSelectPlayer extends FlxAtlasSprite implements IBPMSyncedScriptedClass
       case "pico":
         x = 0;
         y = 0;
+      case "orca":
+        x = 0;
+        y = 0;
       case "random":
     }
   }
